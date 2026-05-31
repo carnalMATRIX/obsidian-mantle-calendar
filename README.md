@@ -1,9 +1,5 @@
 # Mantle Calendar
 
-> [!NOTE]
-> **Status: Beta (v1.0.0)**  
-> Mantle Calendar is currently in public Beta. Feature updates and performance refinements are ongoing.
-
 Mantle Calendar is a streamlined, context-aware calendar interface integrated directly within your Obsidian vault. It allows you to organize schedules, track milestones, and manage task events inside your notes without ever leaving your markdown workspace.
 
 ---
@@ -25,7 +21,7 @@ Mantle Calendar is deeply integrated with the **Project Mantle** design guidelin
 
 ## 📥 Installation
 
-### Method A: Via Obsidian Community Directory (Recommended once approved)
+### Method A: Via Obsidian Community Directory (Recommended)
 1. Go to **Settings** > **Community plugins** > **Browse**.
 2. Search for **Mantle Calendar**.
 3. Click **Install**, then click **Enable**.
