@@ -1,0 +1,10 @@
+{
+  "id": "mantle-calendar",
+  "name": "Mantle Calendar",
+  "description": "A streamlined calendar interface for managing tasks and events directly within your Obsidian vault.",
+  "version": "1.0.0",
+  "author": "Ryan Bakker",
+  "authorUrl": "https://ryanbakker.vercel.app/",
+  "isDesktopOnly": true,
+  "minAppVersion": "1.12.7"
+}
